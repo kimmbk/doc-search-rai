@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.omc/
+data/doc_embeddings.npy
+data/doc_ids.json
+data/query_path_*.html
+data/kg_gdc38_subgraph.png
